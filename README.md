@@ -27,20 +27,19 @@ A Python project that allows users to send WhatsApp messages to any phone number
 - Python installed
 
 
-📚 How It Works
-You enter the recipient's WhatsApp number (in international format) and your message.
+## 📚 How It Works
 
-The Python script sends the message using Twilio’s WhatsApp API.
+- You enter the recipient's WhatsApp number (in international format) and your message.
+- The Python script sends the message using Twilio’s WhatsApp API.
+- The recipient receives your WhatsApp message instantly.
 
-The recipient receives your WhatsApp message instantly.
+---
 
-💡 Why I Built This
+## 💡 Why I Built This
+
 I built this project to explore how real-time communication works via APIs and automate simple messaging tasks on WhatsApp — the world's most popular messaging platform.
 
 This project lays the groundwork for building:
-
-Customer notification systems
-
-WhatsApp chatbots
-
-Automated reminders and alerts
+- Customer notification systems
+- WhatsApp chatbots
+- Automated reminders and alerts
